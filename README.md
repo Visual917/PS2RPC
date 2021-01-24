@@ -3,13 +3,13 @@
 
 Manual Discord Rich Presence for Playstation 2 applications and games.
 
-If you can't reach Visual917#9668, try Visu#0917
+My Discord username is: Visu#0917
 
 ![prevdc](http://secret-forest.xyz/githubps2photos/photo%20(8).jpg)
 
 [Download Now](https://github.com/Visual917/PS2RPC/releases)
 Message me on Discord for image requests and bug reports
-Visual917#9668
+Visu#0917
 
 Very easy to install.
 
