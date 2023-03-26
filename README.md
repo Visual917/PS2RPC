@@ -1,4 +1,5 @@
 # PlayStation 2 RPC
+# This application is now deprecated. I will not update it anymore until I release a better and all in one tool that would include all game consoles and platforms. 
 ![LOGO](http://secret-forest.xyz/githubps2photos/photo%20(3).jpg)
 
 Manual Discord Rich Presence for Playstation 2 applications and games.
